@@ -7,18 +7,18 @@ to understand loan portfolio performance Customer characteristics,
 Payment behavior, and Credit Risk.
 
 **Tools and Technologies**
---SQL Server
--- T-SQL
--- SQL Server Management
--- Github
+-SQL Server
+- T-SQL
+- SQL Server Management
+- Github
 
 **Project workflow**
--- Database creation
--- Table Creation
--- Data import(Bulk Insert)
--- Data validation
--- Portfolio Analysis
--- Credit Analysis
+- Database creation
+- Table Creation
+- Data import(Bulk Insert)
+- Data validation
+- Portfolio Analysis
+- Credit Analysis
 
 **Database Structure**
 Customers
@@ -31,18 +31,18 @@ Branches ──→ Loans
 Loan Types ─→ Loans
 
 **SQL Skill Demonstrastion**
--- Database creation
--- Table creation
--- Primary key
--- Foreign key 
--- Data validation
--- Joins 
--- Group By
--- Aggregate Function
--- Case statament
--- CTEs
--- Window Finction
--- Risk Analysis
+- Database creation
+- Table creation
+- Primary key
+- Foreign key 
+- Data validation
+- Joins 
+- Group By
+- Aggregate Function
+- Case statament
+- CTEs
+- Window Finction
+- Risk Analysis
 
 **Anaysis**
 The project evaluates:
