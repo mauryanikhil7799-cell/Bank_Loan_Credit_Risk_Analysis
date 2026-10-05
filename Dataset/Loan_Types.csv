@@ -1,0 +1,6 @@
+Loan_Type_ID,Loan_Type,Security_Type,Base_Interest_Rate
+LT01,Personal Loan,Unsecured,12.5
+LT02,Vehicle Loan,Secured,10.5
+LT03,Home Loan,Secured,8.5
+LT04,Business Loan,Secured,11
+LT05,Education Loan,Unsecured,9.5
